@@ -1,0 +1,60 @@
+
+
+body{
+
+  font-family: montserrat;
+
+}
+#title{
+  background-color: yellow;
+  color: white;
+}
+h1{
+  font-family:montserrat-black;
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.container-fluid{
+  padding:3% 2%;
+}
+
+.navbar-brand
+{
+  font-family: ubantu;
+  font-size: 3rem;
+  font-weight: lighter;
+}
+.btn
+{
+  border-spacing: 4.5rem;
+}
+.download-button{
+  margin: 5% 3% 5% 0%;
+}
+#features{
+  padding: 7% 15%;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+}
+h2{
+  line-height: 1.5;
+  font-family: montserrat-bold;
+font-size: 3rem;
+color: white;
+}
+#testimonials{
+text-align: center;
+background-color: #ff4c68;
+font-family: montserrat-bold;
+font-size: 1.5rem;
+}
+.testimonials-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 10%;
+}
+
